@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="120mm"
+   height="120mm"
+   viewBox="0 0 120 120"
+   version="1.1"
+   id="svg5"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2">
+    <rect
+       x="233.68942"
+       y="406.59256"
+       width="274.21359"
+       height="175.60477"
+       id="rect4485" />
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-40.386269,-73.624542)">
+    <circle
+       style="fill:#b3b3b3;fill-rule:evenodd;stroke-width:0.416348"
+       id="path31"
+       cx="100.38627"
+       cy="133.62454"
+       r="60" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.52376275,0,0,0.73027433,-69.223984,-202.98732)"
+       id="text4483"
+       style="font-style:normal;font-weight:normal;font-size:96px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4485);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="233.68945"
+         y="494.17551"
+         id="tspan27833"><tspan
+           style="font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff"
+           id="tspan27831">DPR</tspan></tspan></text>
+  </g>
+</svg>
