@@ -1,0 +1,46 @@
+body
+{
+/* background-image:url("assets/canadian-dollar/canadian-dollar.png"); */
+/* background-image:url("assets/repeated-square/repeated-square.png"); */
+/* background-image:url("assets/webb/webb.png"); */
+background-image:url("assets/so-white/so-white.png");
+/* font-family: 'Architects Daughter', cursive;
+font-size:1.1em; */
+font-family: 'Open Sans', sans-serif;
+
+}
+
+a
+{
+color: gray;
+}
+
+a:hover
+{
+color: gray;
+font-weight: 500;
+text-decoration: none;
+text-shadow: 0px 0px 3px #AAAAAA;
+}
+
+.avatar-circle {
+    width: 75px;
+    height: 75px;
+    background-color: gray;
+    text-align: center;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+
+    
+}
+
+.initials {
+      position: relative;
+      top: 20px;
+      font-size: 50px;
+      line-height: 33px;
+      color: #fff; 
+font-family: 'Amatic SC', cursive;
+
+    }
